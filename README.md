@@ -30,4 +30,4 @@ In this repository I have all of the Data Analyst projects that I have worked on
 -  Created a pivot table to show the average income of costumers who purchased a bike and those that did not
 -  Created another pivot table to show the commute distance of costumers that purchased a bike and those that did not
 -  Compared the age range of costumers that purchased a bike and those that did not
--  Created a dashboard to show all  this information on a single sheet
+-  Created a dashboard to show all  the information on a single sheet
