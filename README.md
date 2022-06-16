@@ -27,7 +27,5 @@ In this repository I have all of the Data Analyst projects that I have worked on
 ## Project 8: Creating a Bike Sales Dashboard With Excel
 
 - Cleaned Data by removing duplicates and replacing some text with something more meaningful
--  Created a pivot table to show the average income of costumers who purchased a bike and those that did not
--  Created another pivot table to show the commute distance of costumers that purchased a bike and those that did not
--  Compared the age range of costumers that purchased a bike and those that did not
--  Created a dashboard to show all  the information on a single sheet
+- Created several pivot tables comparing costumer attributes
+- Used these pivot tables to create a very compelling dashboard
