@@ -20,12 +20,32 @@ In this repository I have all of the Data Analyst projects that I have worked on
 
 ## Project 5: SQL Data Cleaning
 
+* In this project I used different string and math functions to clean the data
+* Standadized date format and populate an empty address
+* Breaked out address into individual columns
+* Removed duplicates data
+
 ## Project 6: Correlation in Python
 
 ## Project 7: Amazon Web Scraping With Python
 
-## Project 8: Creating a Bike Sales Dashboard With Excel
+* Used Beautifulsoup and the requests Python library to scrape a webpage
 
-- Cleaned Data by removing duplicates and replacing some text with something more meaningful
-- Created several pivot tables comparing costumer attributes
-- Used these pivot tables to create a very compelling dashboard
+## Project 8: Hotel Bookind Data Analysis
+
+GOAL
+
+* Develop a database to analyze & visualize Hotel Booking Data
+
+REQUIREMENTS
+
+* Build a visual data story or dashboard using Power BI to present to your stakeholders
+
+QUESTIONS I ANSWERED
+
+* Is our hotel revenue growing by year ?: we have two hotel types so it would
+  be good to segment revenue by hotel type.
+* Should we increase our parking lot size?: we want to understand if there is a trend
+  in guest with personal cars.
+* What trends can we see in the data?: focus on average daily rate and guests
+  to explore seasonality
